@@ -1,0 +1,6 @@
+framework module macDemoSDK {
+  umbrella header "macDemoSDK.h"
+
+  export *
+  module * { export * }
+}
